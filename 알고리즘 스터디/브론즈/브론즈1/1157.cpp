@@ -1,4 +1,4 @@
-// 약수
+// 단어 공부
 #include <iostream>
 
 using namespace std;
