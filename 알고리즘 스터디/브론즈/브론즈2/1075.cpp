@@ -7,4 +7,5 @@ int main() {
     int n, f;
 
     cin >> n >> f;
+
 }
