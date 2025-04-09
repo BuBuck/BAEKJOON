@@ -1,4 +1,4 @@
-// 카드 게임   
+// 카드 게임
 #include <iostream>
 
 using namespace std;
