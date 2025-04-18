@@ -3,10 +3,10 @@
 
 using namespace std;
 
-int alpha[26], cnt = 0;
-string str;
-
 int main() {
+    int alpha[26], cnt = 0;
+    string str;
+
     cin >> str;
 
     for(int i = 0;i < str.length(); i++) {
